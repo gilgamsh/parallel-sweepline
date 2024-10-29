@@ -5,6 +5,8 @@ This repository stores an attempt to accelerate the sweepline algorithm using GP
 
 We intend to make the code from our paper open source. However, due to licensing issues, we will not release the industrial designs and dsn parser used for testing.
 
+Current development is at dev branch.
+
 ## Attribution and Related Publication
 
 If you find it useful, please cite  by the following publication:
