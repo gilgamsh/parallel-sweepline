@@ -1,5 +1,5 @@
 # parallel-sweepline
-This repository stores an attempt to accelerate the sweepline algorithm using GPU (CUDA).
+This repository contains codes to accelerate the sweepline algorithm using GPU (CUDA).
 
 ## Plan
 
