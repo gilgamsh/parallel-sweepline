@@ -12,9 +12,11 @@ Current development is at dev branch.
 If you find it useful, please cite  by the following publication:
 
 ```
-@article{jiang2024pdrc,
+@inproceedings{jiang2024pdrc,
   title={PDRC: Package Design Rule Checking via GPU-Accelerated Geometric Intersection Algorithms for Non-Manhattan Geometry},
   author={Jiang, Jiaxi and Zou, Lancheng and Zhao, Wenqian and He, Zhuolun and Chen, Tinghuan and Yu, Bei},
+  booktitle={Proceedings of the 61st ACM/IEEE Design Automation Conference},
+  pages={1--6},
   year={2024}
 }
 ```
